@@ -15,8 +15,8 @@ My current focus is on building a robust foundation in machine learning and soft
 * [Customer Service Message Automation](https://github.com/andre-delfranco/automacao-mensagens-atendimento) — Generates personalized support messages based on ticket status.
 * [Mini Data Analysis](https://github.com/andre-delfranco/mini-analise-dados-suporte) — Analyzes support ticket data and generates automatic summaries and charts.
 
-🛠️ Tech Stack (used in projects):
-* Python, Pandas, Matplotlib
+🛠️ Tech Stack:
+Python, Pandas, Matplotlib, Scikit-learn
 
 📚 Currently studying:
 * TensorFlow, Keras, Prompt Engineering, NLP, Docker, N8N, Portainer
@@ -44,7 +44,7 @@ Meu foco atual é construir uma base técnica robusta em aprendizado de máquina
 * [Mini Análise de Dados](https://github.com/andre-delfranco/mini-analise-dados-suporte) — Analisa dados de chamados de suporte e gera resumos e gráficos automáticos.
 
 🛠️ Tecnologias (usadas nos projetos):
-* Python, Pandas, Matplotlib
+* Python, Pandas, Matplotlib, Scikit-learn
 
 📚 Atualmente estudando:
 * TensorFlow, Keras, Engenharia de Prompts, NLP, Docker, N8N, Portainer
