@@ -10,6 +10,7 @@ My current focus is on building a robust foundation in machine learning and soft
 * 💼 Open to global remote opportunities where I can apply my analytical background and AI skills to build scalable solutions.
 
 📂 Featured Projects:
+* [Access Log Anomaly Detector](https://github.com/andre-delfranco/detector-anomalias-acessos) — Machine Learning (Isolation Forest) model that automatically flags suspicious login patterns: unusual hours, locations, and devices.
 * [Spreadsheet Organizer](https://github.com/andre-delfranco/organizador-planilhas) — Python script that automatically cleans and organizes messy spreadsheets (duplicates, dates, formatting).
 * [Customer Service Message Automation](https://github.com/andre-delfranco/automacao-mensagens-atendimento) — Generates personalized support messages based on ticket status.
 * [Mini Data Analysis](https://github.com/andre-delfranco/mini-analise-dados-suporte) — Analyzes support ticket data and generates automatic summaries and charts.
@@ -37,6 +38,7 @@ Meu foco atual é construir uma base técnica robusta em aprendizado de máquina
 * 💼 Aberto a oportunidades remotas globais, onde eu possa aplicar minha bagagem analítica e novas habilidades em IA.
 
 📂 Projetos em Destaque:
+* [Detector de Anomalias em Logs de Acesso](https://github.com/andre-delfranco/detector-anomalias-acessos) — Modelo de Machine Learning (Isolation Forest) que identifica automaticamente padrões suspeitos de login: horários, localizações e dispositivos incomuns.
 * [Organizador de Planilhas](https://github.com/andre-delfranco/organizador-planilhas) — Script em Python que limpa e organiza planilhas bagunçadas automaticamente (duplicatas, datas, formatação).
 * [Automação de Mensagens de Atendimento](https://github.com/andre-delfranco/automacao-mensagens-atendimento) — Gera mensagens de atendimento personalizadas com base no status do chamado.
 * [Mini Análise de Dados](https://github.com/andre-delfranco/mini-analise-dados-suporte) — Analisa dados de chamados de suporte e gera resumos e gráficos automáticos.
